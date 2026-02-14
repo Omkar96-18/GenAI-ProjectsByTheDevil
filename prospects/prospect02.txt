@@ -1,0 +1,17 @@
+As a seasoned Senior Backend Engineer with a passion for open-source contribution, I am excited to be part of the "Senior Backend Expansion" campaign. With my expertise in FastAPI and Kubernetes, I have
+successfully migrated legacy monoliths to microservices, achieving remarkable performance gains. My most recent project showcased a 40% latency drop across the board - a testament to the power of modern
+architecture.
+
+As an Asian-American male, I bring a unique perspective to the table. Growing up in Seattle, WA, I've had the privilege of being part of a diverse community that celebrates individuality and innovation.
+My interests outside of work include trail running, brewing specialty coffee, and system design architecture - hobbies that help me maintain my creative energy.
+
+My professional journey is reflected in my online presence, where you can find me on LinkedIn (linkedin.com/in/alexchen-backend), Instagram (instagram.com/alexcodes_), and GitHub
+(github.com/alexchen-dev). My recent post analysis highlights the excitement of collaborating with an infra team to drive scalable solutions. The experience has taught me that true success lies in the
+synergy between individuals from different backgrounds, skills, and perspectives.
+
+The "Senior Backend Expansion" campaign resonates deeply with me as it prioritizes scalability and performance optimization - essential aspects of my expertise. I am eager to leverage my 5+ years of
+experience as a Senior Python Engineer, proficient in Python, FastAPI, PostgreSQL, Docker, AWS, and System Design. As someone who is open to remote work, I believe my unique blend of skills and passion
+for innovation will make me an asset to your team.
+
+I look forward to connecting with like-minded professionals who share my enthusiasm for building high-performing systems that drive real results. Join me in this exciting journey as we push the
+boundaries of what's possible!
