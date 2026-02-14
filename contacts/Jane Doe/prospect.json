@@ -1,0 +1,15 @@
+{
+    "prospect_info": {
+        "name": "Jane Doe",
+        "profession": "Senior Software Engineer",
+        "location": "San Francisco, CA",
+        "interests": "Hiking, Open Source, Photography",
+        "recent_post_analysis": "Just finished a major migration to microservices!"
+    },
+    "campaign_context": {
+        "campaign_name": "Q1 Tech Talent Search",
+        "type": "hiring",
+        "description": "Looking for top-tier backend engineers.",
+        "why_approaching": "Hiring Backend Lead, 8y exp in Remote/SF."
+    }
+}
